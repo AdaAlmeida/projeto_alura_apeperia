@@ -41,6 +41,7 @@
 
 .cartao:hover {
     transform: scale(1.03);
+    box-shadow: 3px 3px 3px rgba(15, 15, 15, 0.144);
 }
 
 .cartao__titulo {
