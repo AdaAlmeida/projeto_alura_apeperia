@@ -35,6 +35,12 @@
 
     border-radius: 5px;
     box-shadow: 0 2px 10px 2px #00000010;
+
+    transition: transform 0.3s ease
+}
+
+.cartao:hover {
+    transform: scale(1.03);
 }
 
 .cartao__titulo {
